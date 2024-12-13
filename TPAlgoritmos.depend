@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1718777335 source:c:\users\joeee\desktop\algoritmos\ejercicios\tpalgoritmos\main.c
+	"func.h"
+
+1717619813 c:\users\joeee\desktop\algoritmos\ejercicios\tpalgoritmos\arbol.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1717683166 c:\users\joeee\desktop\algoritmos\ejercicios\tpalgoritmos\indice.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+
+1718775630 source:c:\users\joeee\desktop\algoritmos\ejercicios\tpalgoritmos\indice.c
+	"indice.h"
+
+1718760745 source:c:\users\joeee\desktop\algoritmos\ejercicios\tpalgoritmos\arbol.c
+	"arbol.h"
+
+1708937699 source:c:\users\joeee\desktop\algoritmos\ejercicios\tpalgoritmos\lista.c
+	"lista.h"
+
+1708936268 c:\users\joeee\desktop\algoritmos\ejercicios\tpalgoritmos\lista.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdbool.h>
+
+1718776419 c:\users\joeee\desktop\algoritmos\ejercicios\tpalgoritmos\func.h
+	"indice.h"
+
+1718777385 source:c:\users\joeee\desktop\algoritmos\ejercicios\tpalgoritmos\func.c
+	"func.h"
+
+1718760745 source:c:\users\lire\downloads\tpalgoritmosnewver\arbol.c
+	"arbol.h"
+
+1717619813 c:\users\lire\downloads\tpalgoritmosnewver\arbol.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1719000942 source:c:\users\lire\downloads\tpalgoritmosnewver\func.c
+	"func.h"
+
+1719000979 c:\users\lire\downloads\tpalgoritmosnewver\func.h
+	"indice.h"
+	<time.h>
+
+1717683166 c:\users\lire\downloads\tpalgoritmosnewver\indice.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+
+1718775630 source:c:\users\lire\downloads\tpalgoritmosnewver\indice.c
+	"indice.h"
+
+1718997346 source:c:\users\lire\downloads\tpalgoritmosnewver\main.c
+	"func.h"
+
+1718760745 source:c:\users\lire\downloads\tpalgoritmosnewverv2\arbol.c
+	"arbol.h"
+
+1717619813 c:\users\lire\downloads\tpalgoritmosnewverv2\arbol.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1719000942 source:c:\users\lire\downloads\tpalgoritmosnewverv2\func.c
+	"func.h"
+
+1719000979 c:\users\lire\downloads\tpalgoritmosnewverv2\func.h
+	"indice.h"
+	<time.h>
+
+1717683166 c:\users\lire\downloads\tpalgoritmosnewverv2\indice.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+
+1718775630 source:c:\users\lire\downloads\tpalgoritmosnewverv2\indice.c
+	"indice.h"
+
+1718760745 source:c:\users\joeee\desktop\tpalgoritmosnewverv2\tpalgoritmosnewverv2\arbol.c
+	"arbol.h"
+
+1717619813 c:\users\joeee\desktop\tpalgoritmosnewverv2\tpalgoritmosnewverv2\arbol.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1719003229 source:c:\users\joeee\desktop\tpalgoritmosnewverv2\tpalgoritmosnewverv2\func.c
+	"func.h"
+
+1719000979 c:\users\joeee\desktop\tpalgoritmosnewverv2\tpalgoritmosnewverv2\func.h
+	"indice.h"
+	<time.h>
+
+1717683166 c:\users\joeee\desktop\tpalgoritmosnewverv2\tpalgoritmosnewverv2\indice.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+
+1719005996 source:c:\users\joeee\desktop\tpalgoritmosnewverv2\tpalgoritmosnewverv2\indice.c
+	"indice.h"
+
+1719005184 source:c:\users\joeee\desktop\tpalgoritmosnewverv2\tpalgoritmosnewverv2\main.c
+	"func.h"
+
